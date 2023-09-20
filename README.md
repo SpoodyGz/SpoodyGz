@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**SpoodyGz/SpoodyGz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Spoody :)
 
-Here are some ideas to get you started:
+<h1>Knowledge</h1>
+<br>- 2+ Years of FiveM Development
+<br>- Highly Experienced in LUA
+<br>- Fluent in JavaScript & Typescript
+<br>- Knowledge in React & Vue + (HTML & CSS)
+<br>- Beginner in Ethical Hacking & Pentesting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>Interested in hiring me?</h1>
+<br>- discord: spoodygzz
+<br>- discord server: discord.gg/spoody
