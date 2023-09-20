@@ -12,3 +12,5 @@
 <h1>Interested in hiring me?</h1>
 <br>- discord: spoodygzz
 <br>- discord server: discord.gg/spoody
+
+<img src='https://media.tenor.com/UdISY4O42VQAAAAd/realistic-cat.gif'>
