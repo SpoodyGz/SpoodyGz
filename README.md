@@ -10,7 +10,7 @@
 <br>- Beginner in Ethical Hacking & Pentesting
 
 <h1>Interested in hiring me?</h1>
-<br>- discord: spoodygzz
+<br>- discord: spoodygzzz
 <br>- discord server: discord.gg/spoody
 
 <h1></h1>
