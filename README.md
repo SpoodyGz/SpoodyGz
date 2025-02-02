@@ -3,7 +3,7 @@
 ### I'm Spoody :)
 
 <h1>Knowledge</h1>
-<br>- 2+ Years of FiveM Development
+<br>- 4.5 Years of FiveM Development
 <br>- Highly Experienced in LUA
 <br>- Fluent in JavaScript & Typescript
 <br>- Knowledge in React & Vue + (HTML & CSS)
