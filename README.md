@@ -17,5 +17,5 @@
 <h1>Interested in hiring me?</h1>
 <br>- discord: spoodygzz
 <br>- discord server: discord.gg/spoody
-
-<img style="width: 150px" src="https://r2.fivemanage.com/CWDuI3yLS4av0OWnTLNNl/images/475799971_1022404019927707_4742607609923865127_n.png">
+<br>
+<img style="width: 350px" src="https://r2.fivemanage.com/CWDuI3yLS4av0OWnTLNNl/images/475799971_1022404019927707_4742607609923865127_n.png">
