@@ -18,4 +18,4 @@
 <br>- discord: spoodygzz
 <br>- discord server: discord.gg/spoody
 
-<img style="transform: scale(50%);" src="https://r2.fivemanage.com/CWDuI3yLS4av0OWnTLNNl/images/475799971_1022404019927707_4742607609923865127_n.png">
+<img style="width: 50px" src="https://r2.fivemanage.com/CWDuI3yLS4av0OWnTLNNl/images/475799971_1022404019927707_4742607609923865127_n.png">
