@@ -9,9 +9,11 @@
 <br>- Knowledge in React & Vue + (HTML & CSS)
 <br>- Beginner in Ethical Hacking & Pentesting
 
-<h1>Interested in hiring me?</h1>
-<br>- discord: spoodygzzz
-<br>- discord server: discord.gg/spoody
+<h1>Lifestyle</h1>
+<br>- Student Pilot for a major U.S Airline
+<br>- Founder of a startup aerospace company
+<br>- Self taught software engineer & entreprenuer
 
-<h1></h1>
-<img src='https://media.tenor.com/UdISY4O42VQAAAAd/realistic-cat.gif'>
+<h1>Interested in hiring me?</h1>
+<br>- discord: spoodygzz
+<br>- discord server: discord.gg/spoody
