@@ -12,6 +12,3 @@
 <h1>Lifestyle</h1>
 <br>- U.S. Air Force Student Pilot
 <br>- Self taught software engineer & entreprenuer
-
-<h1></h1>
-<img style="width: 350px" src="https://r2.fivemanage.com/CWDuI3yLS4av0OWnTLNNl/images/475799971_1022404019927707_4742607609923865127_n.png">
