@@ -9,5 +9,5 @@
 <br>- Intermediate Ethical Hacking & Frontend Security
 
 <h1>Lifestyle</h1>
-<br>- U.S. Air Force Student Pilot
+<br>- Enlisted U.S. Air Force Student Pilot
 <br>- Self taught software engineer & entreprenuer
