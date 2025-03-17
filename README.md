@@ -10,8 +10,7 @@
 <br>- Beginner in Ethical Hacking & Pentesting
 
 <h1>Lifestyle</h1>
-<br>- Student Pilot for a major U.S Airline
-<br>- Founder of a startup aerospace company
+<br>- U.S. Air Force Student Pilot
 <br>- Self taught software engineer & entreprenuer
 
 <h1></h1>
