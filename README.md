@@ -9,6 +9,6 @@
 <br>- Intermediate Ethical Hacking & Frontend Security
 
 <h1>Lifestyle</h1>
-<br>- U.S. Air Force College Student // Student Private Pilot
+<br>- U.S. Air Force Reserve // College Student // Student Private Pilot
 <br>- Aerospace Engineer Major
 <br>- Self taught software engineer & entreprenuer
