@@ -1,7 +1,5 @@
 # Hi there 👋
 
-### I'm Spoody :)
-
 <h1>Knowledge</h1>
 <br>- 4.5 Years of FiveM Development Experience
 <br>- Highly Experienced in LUA
