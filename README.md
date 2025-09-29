@@ -9,4 +9,4 @@
 <h1>Lifestyle</h1>
 <br>- U.S. Air Force Reserve // College Student // Private Pilot
 <br>- Aerospace Engineer Major
-<br>- Self taught software engineer & entreprenuer
+<br>- Self taught software engineer & entrepreneur
