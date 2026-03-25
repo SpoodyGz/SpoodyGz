@@ -10,3 +10,11 @@
 <br>- U.S. Air Force Reserve // College Student // Private Pilot
 <br>- Aerospace Engineer Major
 <br>- Self taught software engineer & entrepreneur
+
+<h1>Skills & Hobbies</h1>
+<br>- Software & Game Development
+<br>- Business & Entrepreneurship 
+<br>- Aviation & Aerospace Physics
+<br>- Video Editing
+<br>- Professional Writing
+<br>- Geopolitical Research
