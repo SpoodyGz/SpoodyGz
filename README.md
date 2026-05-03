@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <h1>Knowledge</h1>
-<br>- 4.5 Years of FiveM Development Experience
+<br>- 5 Years of FiveM Development Experience
 <br>- Highly Experienced in Lua
 <br>- Frontend Knowledge: SolidJS, React, Svelte
 <br>- Intermediate Ethical Hacking & Frontend Security
